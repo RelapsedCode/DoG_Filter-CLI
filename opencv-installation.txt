@@ -1,0 +1,5 @@
+https://medium.com/@subwaymatch/opencv-410-with-vs-2019-3d0bc0c81d96
+https://docs.opencv.org/master/dd/d6e/tutorial_windows_visual_studio_opencv.html
+
+Look for the opencv dlls in: project_folder\x64\Debug
+files opencv_world440d.dll and opencv_world440.dll (440 is the version, can be different) should be there, if not paster them from c:\opencv
