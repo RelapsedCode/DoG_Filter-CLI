@@ -5,7 +5,7 @@ ___
 ## How to use
 Input the minimum sigma values from which the application will start generating the new images applying +5 for the first sigma and +1 for the second. The procedure will stop when sigma 1 reaches 40.
 ___
-![Zero-crossing]([[https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/zero-crossing-th.gif | width=1920px]])
+![Zero-crossing]([[https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/zero-crossing-th.gif | width=1920]])
 ![Zero-crossing+image](https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/contours.gif)
 ![Zero-crossing+image](https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/contours.gif)
 ___
