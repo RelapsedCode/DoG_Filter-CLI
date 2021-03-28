@@ -4,8 +4,8 @@ CLI application applies Difference of Gaussian filter on top of an image. It is 
 ___
 ## How to use
 Input the minimum sigma values from which the application will start generating the new images applying +5 for the first sigma and +1 for the second. The procedure will stop when sigma 1 reaches 40.
-![]([[https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/zero-crossing-th.gif|alt=octocat]])
-![]([[https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/contours.gif|alt=octocat]])
+![](https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/zero-crossing-th.gif)
+![](https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/contours.gif)
 ___
 ## OpenCV installation
 https://medium.com/@subwaymatch/opencv-410-with-vs-2019-3d0bc0c81d96
