@@ -5,10 +5,8 @@ ___
 ## How to use
 Input the minimum sigma values from which the application will start generating the new images applying +5 for the first sigma and +1 for the second. The procedure will stop when sigma 1 reaches 40.
 ___
-<img src="https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/zero-crossing-th.gif" width="1440" height="900">
-![Zero-crossing+image](https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/contours.gif)
-![Zero-crossing+image](https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/contours.gif)
-
+<img src="https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/zero-crossing-th.gif" width="1920" height="1080">
+<img src="https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/contours.gif" width="1920" height="1080">
 ___
 ## OpenCV installation
 https://medium.com/@subwaymatch/opencv-410-with-vs-2019-3d0bc0c81d96
@@ -18,4 +16,4 @@ Look for the opencv dlls in: project_folder\x64\Debug
 Files opencv_world440d.dll and opencv_world440.dll (440 is the version, can be different) should be there, if not paste them from c:\opencv
 ___
 Final result after using image editors to polish the output and separating the objects:
-![](https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/layers.gif)
+<img src="https://github.com/RelapsedCode/DoG_Filter-CLI/blob/master/demo-images/layers.gif" width="1920" height="1080">
